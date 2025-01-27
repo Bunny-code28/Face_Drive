@@ -1,0 +1,12 @@
+{
+    "session_id": "20241103_000303",
+    "start_time": "2024-11-03 00:03:03",
+    "end_time": "2024-11-03 00:05:05",
+    "duration_seconds": 122.186587,
+    "events": [],
+    "statistics": {
+        "total_events": 0,
+        "drowsy_events": 0,
+        "phone_events": 0
+    }
+}
